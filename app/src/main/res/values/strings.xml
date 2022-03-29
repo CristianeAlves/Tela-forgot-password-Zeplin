@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ZeplinForgot</string>
+    <string name="login">LOGIN</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="material_design">Material Design UI Kit</string>
+    <string name="email">Email</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="have_an_account">HAVE AN ACCOUNT? <b>LOG IN!</b></string>
+    <string name="don_t_have_an_account">DON’T HAVE AN ACCOUNT? <b>SIGN UP!</b></string>
+</resources>
